@@ -36,7 +36,7 @@ python-dateutil==2.6.0
 python-debian==0.1.27
 python-systemd==231
 pytz==2017.2
-PyYAML==3.11
+PyYAML==5.4
 requests==2.13.0
 requests-oauthlib==0.8.0
 six==1.10.0
