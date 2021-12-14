@@ -17,7 +17,7 @@ language-selector==0.1
 lxml==4.6.5
 MarkupSafe==0.23
 Mastodon.py==1.0.6
-nltk==3.4.5
+nltk==3.6.5
 numpy==1.9.0
 oauthlib==2.0.1
 prettytable==0.7.2
